@@ -1,0 +1,32 @@
+body {
+    background-color: #111111;
+}
+.container {
+    width: 1000px;
+    margin: 0 auto;
+    margin-bottom: auto;
+    background-color: orangered;
+}
+nav {
+    display: flex;
+    margin: auto;
+}
+nav > img {
+    height: 200px;
+}
+nav > h1 {
+    font-size: 70px;
+    padding: auto;
+    margin: auto;
+}
+h2 {
+    color: white;
+}
+.textblock {
+    display: flex;
+    padding: 20px;
+}
+.img1 {
+    color: white;
+    font-size: 24px;
+}

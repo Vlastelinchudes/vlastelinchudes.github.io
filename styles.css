@@ -1,0 +1,70 @@
+body {
+    background-color: black;
+    width: 1000px;
+    margin: 0 auto;
+    color: aliceblue;
+}
+img {
+    width: 100px
+    
+}
+li {
+    text-decoration: none;
+    
+}
+.container {
+    width: 1000px;
+    margin: 0 auto;
+    margin-bottom: 120px;
+    background-color: brown;
+}
+nav {
+    display: flex;
+    border-bottom: 10px solid black;
+    align-items: center;
+    padding: 10px;
+    justify-content: space-between;
+}
+.list {
+    display: flex;
+    gap: 40px;
+    list-style: none;
+}
+.list > li > a {
+    text-decoration: none;
+    color: black;
+}
+.sec1 {
+    margin-top: 10px;
+}
+article {
+    display: flex;
+    gap: 50px;
+}
+.img {
+    width: 400px;
+    border-radius: 24px;
+}
+article > div > p {
+    font-size: 18px;
+    font-family: 'Times New Roman';
+}
+.h2 {
+    color: brown;
+    margin-bottom: 10px;
+    font-size: 32px;
+}
+hr {
+    margin: 20px;
+}
+button {
+    height: 100px;
+    width: 200px;
+    background-color: brown;
+    border-radius: 24px;
+    
+
+}
+.p1 {
+    font-size: 24px;
+}

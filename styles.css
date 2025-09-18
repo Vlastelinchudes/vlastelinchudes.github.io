@@ -3,9 +3,10 @@ body {
     width: 1000px;
     margin: 0 auto;
     color: aliceblue;
+    
 }
 .textblock {
-    align-items: center;
+    margin: 0 auto;
 }
 img {
     width: 100px
@@ -32,14 +33,19 @@ nav {
     display: flex;
     gap: 40px;
     list-style: none;
+    margin: auto;
 }
-.list > li > a {
+li > a {
     text-decoration: none;
-    color: black;
 }
 .sec1 {
     margin-top: 10px;
 }
+.sec2 {
+    justify-content: space-between;
+
+}
+
 article {
     display: flex;
     gap: 50px;
@@ -65,8 +71,10 @@ button {
     width: 200px;
     background-color: brown;
     border-radius: 24px;
-    
-
+}
+.navb {
+    background-color: white;
+    height: 50px;
 }
 .p1 {
     font-size: 24px;

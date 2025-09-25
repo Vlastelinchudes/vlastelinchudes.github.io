@@ -9,6 +9,9 @@ body {
     margin: 0 auto;
     column-count: 3
 }
+.textblock1 {
+    margin: 0 auto;
+}
 img {
     width: 100px
     

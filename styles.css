@@ -63,6 +63,7 @@ article > div > p {
     color: brown;
     margin-bottom: 10px;
     font-size: 32px;
+    column-span: all;
 }
 hr {
     margin: 20px;

@@ -7,6 +7,7 @@ body {
 }
 .textblock {
     margin: 0 auto;
+    column-count: 3
 }
 img {
     width: 100px
